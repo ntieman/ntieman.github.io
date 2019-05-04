@@ -1,0 +1,3 @@
+[submodule "proseries"]
+	path = proseries
+	url = https://github.com/ntieman/proseries
